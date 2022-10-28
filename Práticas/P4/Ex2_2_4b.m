@@ -2,7 +2,7 @@
 clear;clc;
 %% Alínea B i
 clear;clc;
-p =0.5; % probabilidade de vir defeituosa. É 0.5 ou 0.3?
+p =0.5; % probabilidade de vir defeituosa.
 n = 5; % numero de peças
 % É a distribuição Binomial com p = 0.5 e n= 5
 for k=0:n

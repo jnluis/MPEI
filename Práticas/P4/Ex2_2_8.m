@@ -1,6 +1,6 @@
 % Exercício 8 da parte 2.2
 clear;clc;
-lambda= 0.02;
+lambda= 0.02 *100;
 
 % Probabilidadede que exista no máximo 1 erro num livro de 100 páginas
 %Vamos ter de somar a probabilidade de ocorrer 0 erros + a probabilidade de

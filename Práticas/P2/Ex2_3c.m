@@ -1,5 +1,5 @@
 clear;clc;
-%% alinea a
+%% alinea c
 N= 1e5; % numero de experiencias
 T= 100:100:1000; %tamanho do array
 keys= 50; % numero de chaves
