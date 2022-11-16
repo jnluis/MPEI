@@ -1,4 +1,4 @@
-% Exercício 3 da parte 2.3
+% Exercício 3 da parte 3.1
 clear;clc;
 T= rand(20); % gera uma matriz 20 por 20
 x = sum(T);

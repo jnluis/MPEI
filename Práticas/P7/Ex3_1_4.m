@@ -1,4 +1,4 @@
-% Exercício 4 da parte 2.3
+% Exercício 4 da parte 3.1
 clear;clc;
 %% Alínea a
 p= 0.4;

@@ -1,4 +1,4 @@
-% Exercício 1 da parte 2.3
+% Exercício 1 da parte 3.1
 clear;clc;
 
 % 2 estados: faltar(F) ou não Faltar (NF)
