@@ -1,5 +1,4 @@
 % Exercício 3 da parte 3.2
-
 %% Alinea A- Por um processo supostamente iterativo
 clear;clc;
 N= 6; % nº de estados

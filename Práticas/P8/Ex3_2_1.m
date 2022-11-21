@@ -1,4 +1,4 @@
-% Exercício 7 da parte 3.2
+% Exercício 1 da parte 3.2
 %% Alinea A-> Confirme os valores calculados nas alínas (f) e (g) através de simulacao 
 H = [0.8 0.2 0 0 0; 0 0.6 0.3 0.1 0; 0 0 1 0 0; 0.3 0.2 0 0.4 0.1; 0 0 0 0 1]';
 
@@ -34,7 +34,7 @@ fprintf("--------a)--------\n");
 fprintf("(6f) Nº médio de passos até absorção começando no estado: 1 = %f  2 = %f  4 = %f\n",Media_X1,Media_X2,Media_X4);
 fprintf("(6g) Probabilidade de absorção (começando no estado 1) nos estados: 3 = %f  5 = %f\n",Prob_Abs3,Prob_Abs5);
 
-%% Alinea A-> Guarde numa variável do tipo cell array do Matlab 10000 sequências que começam num dos estados 
+%% Alinea B-> Guarde numa variável do tipo cell array do Matlab 10000 sequências que começam num dos estados 
 
 N = 10000; % tamanho do cell array
 Estados = [1,2,4]; %estados não absorventes
