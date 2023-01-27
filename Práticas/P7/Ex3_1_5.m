@@ -66,7 +66,6 @@ end
 fprintf("\n")
 fprintf("O número médio de dias que a pessoa vai sofrer de dores reumáticas em janeiro %0.0f\n",diareumatismo);
 
-%
 
 vi = [0 0 1]';
 diaSol= 0;

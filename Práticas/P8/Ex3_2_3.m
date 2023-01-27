@@ -36,6 +36,5 @@ disp("A melhor página é a D e a pior é a E");
 M = [AGoogle-eye(6); ones(1,6)]; % 6 -> length(T)
 x = [0 0 0 0 0 0 1]';
 u = M\x;
-
 fprintf("b) Probabilidades limite dos estados:\n" + ...
     "\ta.pt (%.5f), b.es (%.5f), c.fr (%.5f), d.br (%.5f), e.com (%.5f) e f.nl (%.5f)\n",u(1),u(2),u(3),u(4),u(5),u(6));
